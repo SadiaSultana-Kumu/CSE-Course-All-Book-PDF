@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F7F9F9"
+    android:orientation="vertical"
+    tools:context=".about">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name: Sadia Sultana Kumu"
+        android:textSize="25sp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="50dp"
+        android:textColor="#131472"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ID: 163-15-8516"
+        android:textSize="25sp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="50dp"
+        android:textColor="#131472"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email: kumusadia02@gmail.com"
+        android:textSize="20sp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="50dp"
+        android:textColor="#131472"/>
+
+</LinearLayout>
